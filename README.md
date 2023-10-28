@@ -1,10 +1,10 @@
-Weather - A Personalized Weather Application
+# Weather - A Personalized Weather Application
 
-Introduction:
+## Introduction:
 
 WeatherNow is a web-based weather application designed to meet the specific requirements of Mr. Mickey Arthur. This application allows users to access real-time weather data and forecasts for locations worldwide. It offers a user-friendly interface and advanced features for personalized weather information.
 
-Features:
+## Features:
 
 1. User Authentication:
 Secure login functionality to ensure that only authorized users can access the application.
@@ -24,7 +24,7 @@ Users can click "View More" to access a full week's weather forecast for a compr
 6. Attractive User Interface:
 The application boasts a visually appealing and user-friendly interface designed to enhance the user experience.
 
-Technologies Used:
+## Technologies Used:
 
 1. MERN Stack:
 This application is built using the MERN (MongoDB, Express, React, Node.js) technology stack, ensuring a robust and efficient development process.
@@ -36,21 +36,21 @@ Weather data is fetched from the OpenWeatherMap API to provide accurate and up-t
 The application is hosted on Render, providing reliable and scalable hosting services.
 
 
-Installation and Usage:
+## Installation and Usage:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using npm install in both the client and server directories.
 3. Start the server using npm start in the server directory.
 4. Start the client using npm start in the client directory.
 
-Accessing the Application:
+## Accessing the Application:
 
 1. You can access the live application ([](https://weather-forcastv1.netlify.app/)].
 2. To test the application locally, follow the installation and usage instructions mentioned above.
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
