@@ -45,7 +45,7 @@ The application is hosted on Render, providing reliable and scalable hosting ser
 
 ## Accessing the Application:
 
-1. You can access the live application ([](https://weather-forcastv1.netlify.app/)]. 🔗
+1. You can access the live application  ➡️  https://weather-forcastv1.netlify.app/ 🔗
 2. To test the application locally, follow the installation and usage instructions mentioned above.
 
 
